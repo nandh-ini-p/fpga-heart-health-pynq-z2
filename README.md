@@ -73,7 +73,7 @@ The reported results show different predictive accuracies across the three evalu
 
 ## Web Summarization Results
 
-The project evaluated FPGA-powered text summarization against conventional software-based processing. TextBlob sentiment analysis was applied to the generated summaries. The paper describes improvements in processing efficiency resulting from FPGA implementation; specific numerical speed and throughput benchmarks are discussed within the project documentation.
+The project evaluated FPGA-powered text summarization against conventional software-based processing. TextBlob sentiment analysis was applied to the generated summaries. The paper describes FPGA-based processing in terms of processing efficiency and comparison with conventional software-based processing. Specific numerical speed and throughput values are not reported in the available project content.
 
 ## Hardware and Software
 
@@ -96,8 +96,7 @@ The project evaluated FPGA-powered text summarization against conventional softw
 
 ## Project Documentation
 
-- Project Presentation
-- Project Documentation
+Project presentation and additional documentation can be added to this section.
 
 ## Source Code & Further Details
 
